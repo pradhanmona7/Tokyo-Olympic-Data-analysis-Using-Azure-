@@ -1,4 +1,4 @@
-# Tokyo 
+# Tokyo Olympic Data Analysis of Athletes Using Azure Cloud Infrastructure 
 
 ## Objective
 I'm excited to share the successful completion of my Azure End-to-End Analytics Project on Azure cloud leveraging services like Data Factory, Databricks, Synapse Analytics, Data Lake and Power BI. This project encompassed ingesting 2021 Tokyo Olympics dataset, building data transformation pipelines, developing a cloud data warehouse, and creating interactive BI dashboards.
